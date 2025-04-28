@@ -101,9 +101,9 @@ Voici les étapes pour configurer la base de données et exécuter l'application
    [Télécharger Zulu OpenJDK 23](https://www.azul.com/downloads/?package=jdk-fx#zulu)   qui inclut JavaFX.
 
 4 . **Configurez JDBC** :
-https://github.com/AbdessamadSupmti/GestionInventaire/blob/a742925a4723cb2a1062855390649be3a8ec6e40/src/serveur/DAO/JDBCUtil.java#L8
-https://github.com/AbdessamadSupmti/GestionInventaire/blob/a742925a4723cb2a1062855390649be3a8ec6e40/src/serveur/DAO/JDBCUtil.java#L9
-https://github.com/AbdessamadSupmti/GestionInventaire/blob/a742925a4723cb2a1062855390649be3a8ec6e40/src/serveur/DAO/JDBCUtil.java#L10
+https://github.com/ayoub730/GestionInventaire/blob/d9e1e1dfa98f3646ed8e77049ef71ab602c0a067/src/serveur/DAO/JDBCUtil.java#L8
+https://github.com/ayoub730/GestionInventaire/blob/d9e1e1dfa98f3646ed8e77049ef71ab602c0a067/src/serveur/DAO/JDBCUtil.java#L9
+https://github.com/ayoub730/GestionInventaire/blob/d9e1e1dfa98f3646ed8e77049ef71ab602c0a067/src/serveur/DAO/JDBCUtil.java#L10
 ## Instructions pour exécuter le code (il y a 2 choix)
 
 
