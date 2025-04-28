@@ -114,7 +114,7 @@ https://github.com/AbdessamadSupmti/GestionInventaire/blob/a742925a4723cb2a10628
 1. **Cloner le projet depuis GitHub** :
    Clonez le repository avec la commande suivante :
    ```bash
-   git clone https://github.com/AbdessamadSupmti/GestionInventaire.git
+   git clone https://github.com/ayoub730/GestionInventaire.git
    ```
 
 2. **Compiler le projet** :
